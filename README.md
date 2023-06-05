@@ -2,9 +2,9 @@
 
 ## 👷️ Overview
 
-Link: 
+Link: https://youtu.be/P3MAbZ2eMUI
 
-This overview describes LangChain's modules in 11 minutes and is packed with examples and animations to get the main points across as simply as possible.
+A fast-paced introduction to LangChain describing its modules: prompts, models, indexes, chains, memory and agents. It is packed with examples and animations to get the main points across as simply as possible. The agent section will be covered in more depth in a following video.
 
 ## 💻 Getting Started
 
