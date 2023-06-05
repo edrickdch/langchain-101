@@ -38,7 +38,7 @@ pipenv install
 pipenv shell
 ```
 
-5. Run the ingestion:
+5. Ex: Run a script:
 
 ```bash
 python src/prompts/prompt-templates.py
